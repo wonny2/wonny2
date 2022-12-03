@@ -12,7 +12,11 @@
      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
   </div> -->
-
+  
+<!-- ![GraphQL](https://img.shields.io/badge/GraphQL.js-E10098.svg?&style=for-the-badge&logo=GraphQL.js&logoColor=white) -->
+<!-- ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) -->
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) -->
+<!-- ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white) -->
 
 <div stlye="display:flex; flex-direction:row;">
   
@@ -21,12 +25,9 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-<!-- ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) -->
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) -->
-<!-- ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white) -->
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-<!-- ![GraphQL](https://img.shields.io/badge/GraphQL.js-E10098.svg?&style=for-the-badge&logo=GraphQL.js&logoColor=white) -->
+
   
 </div>
 
