@@ -13,7 +13,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiwonny2anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/wonny2&show_icons=true&theme=dracula)
 
 
 
