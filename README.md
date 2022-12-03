@@ -13,7 +13,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wonny2=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiwonny2=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
