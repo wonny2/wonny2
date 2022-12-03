@@ -11,6 +11,12 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL.js-E10098.svg?&style=for-the-badge&logo=GraphQL.js&logoColor=white)
 
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wonny2=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **wonny2/wonny2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
