@@ -3,6 +3,8 @@
 
 ---
 ![HTML5](https://img.shields.io/badge/Html-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-#1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <!--
 **wonny2/wonny2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
