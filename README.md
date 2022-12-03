@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="One's GitHub"&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=One's Github%20render&fontSize=90)
 ### CHOI WON HEE 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonny2&count_bg=%237FD579&title_bg=%23125A0D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
