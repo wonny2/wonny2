@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=One's%20Github&fontSize=90)
 
 <div align="center">
 <img width="80%" src="https://velog.velcdn.com/images/everyone_joy/post/a50524a9-3acc-49d3-88cb-a31d209b4645/image.gif"/>
