@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=One's%20Github&fontSize=90)
 
-<div style="width: 100%; display:flex; justify-contents: cetner">
+<div align="center">
 <img width="80%" src="https://velog.velcdn.com/images/everyone_joy/post/a50524a9-3acc-49d3-88cb-a31d209b4645/image.gif"/>
 </div>
 
