@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=One's%20Github&fontSize=90)
 
-<img width="50%" src="https://velog.velcdn.com/images/everyone_joy/post/a50524a9-3acc-49d3-88cb-a31d209b4645/image.gif"/>
+<div style="width: 100%; display:flex; justify-contents: cetner">
+<img width="80%" src="https://velog.velcdn.com/images/everyone_joy/post/a50524a9-3acc-49d3-88cb-a31d209b4645/image.gif"/>
+</div>
 
 ### CHOI WON HEE 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonny2&count_bg=%237FD579&title_bg=%23125A0D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
