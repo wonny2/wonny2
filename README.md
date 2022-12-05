@@ -4,7 +4,6 @@
 <img width="80%" src="https://velog.velcdn.com/images/everyone_joy/post/a50524a9-3acc-49d3-88cb-a31d209b4645/image.gif"/>
 </div>
 
-### CHOI WON HEE 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=28&pause=1000&color=137934&center=true&vCenter=true&width=435&lines=Hello!+I'm+Choi+Won+Hee👋;WELCOME!!🏖)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonny2&count_bg=%237FD579&title_bg=%23125A0D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
