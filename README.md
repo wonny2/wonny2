@@ -41,13 +41,18 @@
   
 </div>
 
-
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonny2&show_icons=true&bg_color=00000000)
 
+  
+<br />
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)]([https://soo-vely-dev.tistory.com/](https://velog.io/@everyone_joy))
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:onehee2choi@gmail.com)
+  
+  
+<br />
 
 </div>
 
