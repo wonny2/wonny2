@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=One's%20Github&fontSize=90)
 
 <div align="center">
@@ -47,4 +49,5 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)]([https://soo-vely-dev.tistory.com/](https://velog.io/@everyone_joy))
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:onehee2choi@gmail.com)
 
+</div>
 
