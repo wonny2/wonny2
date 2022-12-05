@@ -5,6 +5,8 @@
 </div>
 
 ### CHOI WON HEE 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Choi+Won+Hee+.+Welcome+!)](https://git.io/typing-svg)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonny2&count_bg=%237FD579&title_bg=%23125A0D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
