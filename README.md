@@ -26,6 +26,8 @@
   
 <div stlye="display:flex; flex-direction:row;" align="center">
   
+  <div style="color:ligthblue">🛠Skills</div>
+  
   ![HTML5](https://img.shields.io/badge/Html-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> 
